@@ -1,7 +1,9 @@
 ** A.R.I.S.E 
-Sound Systems™
+Sound Systems™ **
 
-Stable: Numbers™ 3.5
+These source files were taken from the ARISE release .zip's. Additional .mk files have been added to help it build inline
+
+Current Version: Stable - Numbers™ 3.5
 
 Auditory Research in Sound Enhancement™
 
@@ -19,3 +21,5 @@ guitardedhero, Roi007leaf, wrongway213, sonophilos, churapa, docnok63, Paschfire
 
 Vendor method adapted by:
 electrikjesus
+
+Source Link: https://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709
